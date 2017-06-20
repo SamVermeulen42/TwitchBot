@@ -14,7 +14,7 @@ public class TwitchGameBot {
         
         // commands:
         // !name
-        ColorName cn = new ColorName("RubberDuckling00");
+        ColorName cn = new ColorName("SamVermeulen42");
         con.register("name", cn);
         ColorNameView cnView = new ColorNameView(cn, 60);
         
